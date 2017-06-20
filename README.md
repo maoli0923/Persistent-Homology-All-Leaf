@@ -2,7 +2,7 @@
 This is the code (a reduced computational version) to measure leaf shape by persistent homology method
 
 This package contains all Matlab functions needed to calculate the persistent homology output used in the analysis of >180,000 leaf shapes described in: 
-Mao Li, Daniel H. Chitwood et al.A persistent homology leaf morphospace predicts plant family and region. 
+Mao Li, Daniel H. Chitwood et al. Persistent homology demarcates a leaf morphospace.bioRxiv 151712; doi: https://doi.org/10.1101/151712
  
 
 Code is implemented by Mao Li (maoli0923@gmail.com).
